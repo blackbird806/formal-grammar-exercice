@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Blackbird"
+	],
+	"copyright": "Copyright © 2022, Blackbird",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "training"
+}

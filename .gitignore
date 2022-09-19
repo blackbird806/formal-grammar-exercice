@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/training
+training.so
+training.dylib
+training.dll
+training.a
+training.lib
+training-test-*
+*.exe
+*.o
+*.obj
+*.lst
